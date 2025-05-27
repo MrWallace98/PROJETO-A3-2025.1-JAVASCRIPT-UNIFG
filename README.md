@@ -3,7 +3,7 @@ PROJETO FOI DESENVOLVIDO PARA UMA EMPRESA DE ALUGUEL DE VEICULOS,
 ONDE TEM O REGISTRO E CADASTRO DE MOTORISTA E CARROS, REGISTRO DE
 QUANTO O VEICULO TEM CORRIDO.
 
-projeto desenvolvido pelos seguintes aluno:
+Projeto Desenvolvido Pelos Seguintes Alunos:
 
 *Fred Lorran Silva da Costa
 RA: 1012411113
