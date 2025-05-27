@@ -1,17 +1,23 @@
 # PROJETO-A3-2025.1-JAVASCRIPT-UNIFG
+PROJETO FOI DESENVOLVIDO PARA UMA EMPRESA DE ALUGUEL DE VEICULOS, 
+ONDE TEM O REGISTRO E CADASTRO DE MOTORISTA E CARROS, REGISTRO DE
+QUANTO O VEICULO TEM CORRIDO.
 
 projeto desenvolvido pelos seguintes aluno:
-*Gabriel Ribeiro Alves
 
+*Fred Lorran Silva da Costa
+RA: 1012411113
 *Wallace Andrade de Souza
+RA:1012320046
+*Gabriel Dolglas Torres Martins
+RA:1012320568
+*Arthur Fagundes
+RA:1012314275
+*Carlos Andre
+RA:1012414775
+*Wendel Fernandes
+RA:1012314056
 
-*Gabriel Dolglas
-
-*
-
-*
-
-*
 
 
 *******PROJETO AINDA SENDO DESENVOLVIDO ! ***
